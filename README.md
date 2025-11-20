@@ -40,7 +40,9 @@
 <div align="center">
 
 <p align="center">
-  <a target="_blank" href="https://x.com/lubisca08"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo">
+  <a target="_blank" href="https://x.com/lubisca08"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo">
+  </a>
+   <a target="_blank" href="https://www.instagram.com/ri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
 </p>
 
