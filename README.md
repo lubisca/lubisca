@@ -42,7 +42,7 @@
 <p align="center">
   <a target="_blank" href="https://x.com/lubisca08"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo">
   </a>
-   <a target="_blank" href="https://www.instagram.com/ri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   <a target="_blank" href="https://www.instagram.com/ryzu.studio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
 </p>
 
