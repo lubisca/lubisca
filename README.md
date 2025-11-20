@@ -25,7 +25,8 @@
 <div align="center">
 <br>
   
-## **Minhas Ferramentas** 
+## **Ferramentas e Linguagens** 
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,3 +35,12 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+## **Social** 
+<div align="center">
+
+<p align="center">
+  <a target="_blank" href="https://x.com/lubisca08"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo">
+  </a>  
+</p>
+
