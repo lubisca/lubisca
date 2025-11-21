@@ -13,7 +13,7 @@
 + Maranhao, Brasil 🇧🇷
 - 19 anos
 ! Estudando (sou iniciante)
-+ Comecei por javaScript e espero dominar o mundo em breve :)
++ Praticamente comecei ontem nesse mundo :)
 ```
 
 <div align="center">
