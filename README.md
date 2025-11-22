@@ -8,7 +8,7 @@
 ### **Sobre Mim**
   
 ```diff
-@@Isso é tao empolgante@@
+@@Isso é tão empolgante@@
 
 + Maranhão, Brasil 🇧🇷
 - 19 anos
