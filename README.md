@@ -10,9 +10,9 @@
 ```diff
 @@Isso é tao empolgante@@
 
-+ Maranhao, Brasil 🇧🇷
++ Maranhão, Brasil 🇧🇷
 - 19 anos
-! Estudando (sou iniciante)
+! Em formação!
 + Praticamente comecei ontem nesse mundo :)
 ```
 
