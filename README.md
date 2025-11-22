@@ -13,7 +13,7 @@
 + Maranhão, Brasil 🇧🇷
 - 19 anos
 ! Em formação!
-+ Praticamente comecei ontem nesse mundo :)
++ Comecei ontem nesse mundo :p
 ```
 
 <div align="center">
