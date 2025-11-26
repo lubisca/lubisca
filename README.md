@@ -40,9 +40,10 @@
 <div align="center">
 
 <p align="center">
-  <a target="_blank" href="https://x.com/lubisca08"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo">
+  <a target="_blank" href="https://x.com/lubisca08"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TWITTER-button.png" height="28" alt="Twitter">
+
   </a>
-   <a target="_blank" href="https://www.instagram.com/ryzu.studio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   <a target="_blank" href="https://www.instagram.com/ryzu.studio/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram">
   </a>  
 </p>
 
