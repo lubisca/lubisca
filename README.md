@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### **Sobre Mim**
+## ***Sobre Mim***
   
 ```diff
 @@Isso é tão empolgante@@
@@ -25,7 +25,7 @@
 <div align="center">
 <br>
   
-## **Ferramentas e Linguagens** 
+## ***Ferramentas e Linguagens*** 
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">
 
-## **Social** 
+## ***Social*** 
 <div align="center">
 
 <p align="center">
