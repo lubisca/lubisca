@@ -47,3 +47,4 @@
   </a>  
 </p>
 
+  <p>Badges by <a href="https://github.com/lubisca/retro-badges">Retro Badges</a></p>
