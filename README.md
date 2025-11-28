@@ -35,6 +35,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">
 
 ## ***Social*** 
 <div align="center">
