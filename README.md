@@ -22,7 +22,6 @@
 
 
 <div align="center">
-<br>
   
 ## ***Ferramentas e Linguagens*** 
 
