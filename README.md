@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![banner](https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif)
+<!-- ![banner](https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif) -->
 
 <div align="center">
 
@@ -13,7 +13,6 @@
 + Maranhão, Brasil 🇧🇷
 - 19 anos
 ! Em formação!
-+ Comecei ontem nesse mundo :p
 ```
 
 <div align="center">
@@ -48,8 +47,7 @@
   </a>  
 </p>
 
- <br>
-<br>
+
 <br><br>
 <p align="center">
   <small>Badges by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></small>
